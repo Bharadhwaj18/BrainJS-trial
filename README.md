@@ -1,4 +1,6 @@
 Color Predictor with Brain.js
+
+
 This is a trial website that uses a neural network to predict the appropriate color of a word based on its background color. The neural network is built using Brain.js, a JavaScript library for neural networks.
 
 How It Works
